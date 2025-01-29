@@ -2,4 +2,4 @@ Data enthusiast and Ph.D. student in Statistics dedicated to unraveling insights
 
 Proficient in R and Python, I'm committed to delving into data intricacies to deliver robust solutions. 
 
-Master in Natural Science - Biology. Expertises in Zoology, Ecology, Forensic Biology and Computacional Biology.
+Master in Natural Science - Biology. Expertises in Biostatistics, Ecology, Forensic Biology and Computacional Biology.
