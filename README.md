@@ -56,17 +56,6 @@ Forensic Biology       ██████████████░░░░░
 
 ---
 
-### 🔬 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Filogenia-em-R-para-iniciantes](https://github.com/dmourasi/Filogenia-em-R-para-iniciantes) | Phylogenetic analysis tutorial for beginners (PT-BR) | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) |
-| [Analise-multivariada-aplicada](https://github.com/dmourasi/Analise-multivariada-aplicada) | Applied multivariate statistical analysis | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) |
-| [perl4bio](https://github.com/dmourasi/perl4bio) | Perl programming course for Bioinformatics | ![Perl](https://img.shields.io/badge/-Perl-39457E?logo=perl&logoColor=white&style=flat) |
-| [Chuva_paraiba](https://github.com/dmourasi/Chuva_paraiba) | Rainfall data analysis — Paraíba, Brazil | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) |
-| [probabilidade](https://github.com/dmourasi/probabilidade) | Probability concepts & applications | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) |
-
----
 
 ### 🌐 Connect
 
