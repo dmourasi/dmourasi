@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Ph.D.+Student+in+Statistics+%F0%9F%94%AC;Biostatistics+%7C+Data+Science+%7C+Bioinformatics;Turning+data+into+evidence-based+decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Ph.D.+Student+in+Statistics+%F0%9F%94%AC;Biostatistics+%7C+Data+Science+%7C+Bioinformatics)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,10 +11,11 @@
 
 I'm a **data scientist and Ph.D. student in Statistics** at [UFRPE](https://www.ufrpe.br/), dedicated to extracting meaningful insights from complex biological and environmental datasets.
 
-- 🎓 **Ph.D.** in Statistics — UFRPE
-- 🌿 **M.Sc.** in Natural Science (Biology) — Biostatistics · Ecology · Forensic Biology · Computational Biology
+- 🔬 Research focus:  Biostatistics · Experimental Biology · Ecology · Forensic Biology · Computational Biology
+- 🎓 **Ph.D.** in Statistics — UFRPE(BR)/Hokudai(JP)
+- 🌿 **M.Sc.** in Agro-Enviromental Nematology (Biology) — UGhent(BE) 
+- 🧬 **B.Sc.** in Biologial Science/ Environmental Science - UFPE(BR)/ELTE(HU)
 - 🏙️ Based in **Recife, PE, Brasil**
-- 🔬 Research focus: **healthcare & environmental data** · evidence-based decision-making
 - 🌐 Personal site: [dmoura.tech](https://www.dmoura.tech/)
 
 ---
@@ -34,17 +35,6 @@ I'm a **data scientist and Ph.D. student in Statistics** at [UFRPE](https://www.
 
 ---
 
-### 📊 Areas of Expertise
-
-```
-Biostatistics          ████████████████████  Statistical Modeling
-Multivariate Analysis  ██████████████████░░  Data Visualization
-Bioinformatics         ████████████████░░░░  Phylogenetics
-Forensic Biology       ██████████████░░░░░░  Environmental Data
-```
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -55,7 +45,6 @@ Forensic Biology       ██████████████░░░░░
 </div>
 
 ---
-
 
 ### 🌐 Connect
 
@@ -69,12 +58,3 @@ Forensic Biology       ██████████████░░░░░
 
 </div>
 
----
-
-<div align="center">
-
-*"In God we trust; all others must bring data."* — W. Edwards Deming
-
-![Profile views](https://komarev.com/ghpvc/?username=dmourasi&color=2E9FD1&style=flat-square&label=Profile+Views)
-
-</div>
