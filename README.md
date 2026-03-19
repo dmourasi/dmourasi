@@ -55,6 +55,6 @@ I'm a **data scientist and Ph.D. student in Statistics** at [UFRPE](https://www.
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5800-8190)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_forense)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmouraslv@gmail.com)
-
+![Lattes](https://img.shields.io/badge/Lattes-blue?style=for-the-badge&link=https%3A%2F%2Flattes.cnpq.br%2F5279234543828132)
 </div>
 
