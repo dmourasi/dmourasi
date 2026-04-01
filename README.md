@@ -9,7 +9,7 @@
 
 ### 🧬 About Me
 
-I'm a **data scientist and Ph.D. student in Statistics** at [UFRPE](https://www.ufrpe.br/), dedicated to extracting meaningful insights from complex biological and environmental datasets.
+I'm a **data scientist and Ph.D. student in Statistics** at [UFRPE](https://www.ufrpe.br/)/[HOKUDAI](https://www.hokudai.ac.jp/), dedicated to extracting meaningful insights from complex biological and environmental datasets.
 
 - 🔬 Research focus:  Biostatistics · Experimental Biology · Ecology · Forensic Biology · Computational Biology
 - 🎓 **Ph.D.** in Statistics — UFRPE(BR) / Hokudai(JP)
