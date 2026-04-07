@@ -41,8 +41,8 @@ I'm a **data scientist and Ph.D. student in Statistics** at [UFRPE](https://www.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dmourasi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmourasi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-xi-five-31.vercel.app/api?username=dmourasi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-xi-five-31.vercel.app/api/top-langs/?username=dmourasi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
