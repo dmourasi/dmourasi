@@ -11,7 +11,7 @@
 
 I'm a **data scientist and Ph.D. candidate in Statistics** at [UFRPE](https://www.ufrpe.br/)/[HOKUDAI](https://www.hokudai.ac.jp/), dedicated to extracting meaningful insights from complex biological and environmental datasets.
 
-- 🔬 Research focus:  Biostatistics · Experimental Biology · Ecology · Forensic Biology · Computational Biology
+- 🔬 Research focus:  Biostatistics · Experimental Biology · Environment · Forensic Biology · Computational Biology
 - 🎓 **Ph.D.** in Biometry and Applied Statistics — UFRPE(BR) / Hokudai(JP)
 - 🌿 **M.Sc.** in Agro-Enviromental Nematology (Biology) — UGhent(BE) 
 - 🧬 **B.Sc.** in Biologial Science/ Environmental Science - UFPE(BR) / ELTE(HU)
