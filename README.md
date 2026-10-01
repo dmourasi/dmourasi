@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Ph.D.+Student+in+Statistics+%F0%9F%94%AC;Biostatistics+%7C+Data+Science+%7C+Bioinformatics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Ph.D.+Candidate+in+Statistics+%F0%9F%94%AC;Biostatistics+%7C+Data+Science+%7C+Bioinformatics)](https://git.io/typing-svg)
 
 </div>
 
