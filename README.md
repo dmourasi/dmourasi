@@ -13,7 +13,7 @@ I'm a **data scientist and Ph.D. candidate in Statistics** at [UFRPE](https://ww
 
 - 🔬 Research focus:  Biostatistics · Experimental Biology · Environment · Forensic Biology · Computational Biology
 - 🎓 **Ph.D.** in Biometry and Applied Statistics — UFRPE(BR) / Hokudai(JP)
-- 🌿 **M.Sc.** in Agro-Enviromental Nematology (Biology) — UGhent(BE) 
+- 🌿 **M.Sc.** in Agro-Enviromental Nematology — UGhent(BE) 
 - 🧬 **B.Sc.** in Biologial Science/ Environmental Science - UFPE(BR) / ELTE(HU)
 - 🏙️ Based in **Recife, PE, Brasil**
 - 🌐 Personal site: [dmoura.tech](https://www.dmoura.tech/)
